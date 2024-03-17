@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\הנדסה\מונחצ\MCcircuit\MCcircuit\bin\Debug\MCcircuit.exe.config
+C:\Users\user\Desktop\הנדסה\מונחצ\MCcircuit\MCcircuit\bin\Debug\MCcircuit.exe
+C:\Users\user\Desktop\הנדסה\מונחצ\MCcircuit\MCcircuit\bin\Debug\MCcircuit.pdb
+C:\Users\user\Desktop\הנדסה\מונחצ\MCcircuit\MCcircuit\obj\Debug\MCcircuit.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\הנדסה\מונחצ\MCcircuit\MCcircuit\obj\Debug\MCcircuit.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\הנדסה\מונחצ\MCcircuit\MCcircuit\obj\Debug\MCcircuit.MainForm.resources
+C:\Users\user\Desktop\הנדסה\מונחצ\MCcircuit\MCcircuit\obj\Debug\MCcircuit.Properties.Resources.resources
+C:\Users\user\Desktop\הנדסה\מונחצ\MCcircuit\MCcircuit\obj\Debug\MCcircuit.csproj.GenerateResource.cache
+C:\Users\user\Desktop\הנדסה\מונחצ\MCcircuit\MCcircuit\obj\Debug\MCcircuit.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\הנדסה\מונחצ\MCcircuit\MCcircuit\obj\Debug\MCcircuit.exe
+C:\Users\user\Desktop\הנדסה\מונחצ\MCcircuit\MCcircuit\obj\Debug\MCcircuit.pdb
